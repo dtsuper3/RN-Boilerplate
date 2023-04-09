@@ -1,0 +1,25 @@
+const APP_NAME = 'Shiprazor';
+
+const ERRORS_NAME = {
+  FIELD_REQUIRED: 'Field Required',
+};
+
+const DEFAULT_COUNTRY = 'Kenya';
+
+const DEFAULT_COUNTRY_CODE = 'KE';
+
+const TAB_ICON_SIZE = 24;
+
+const DEFAULT_PAGE_SIZE = 10;
+
+const GOOGLE_MAPS_API_KEY = 'AIzaSyBhAbFGb3Y99hMoltzcdFRCmPJq04N-sqs';
+
+export {
+  APP_NAME,
+  ERRORS_NAME,
+  DEFAULT_COUNTRY,
+  DEFAULT_COUNTRY_CODE,
+  TAB_ICON_SIZE,
+  DEFAULT_PAGE_SIZE,
+  GOOGLE_MAPS_API_KEY,
+};
